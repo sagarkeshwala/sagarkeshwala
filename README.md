@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sagarkeshwala
-- 👀 I’m interested in WEB & UI/UX Design..
-- 🌱 I’m currently learning New Technologies.
-- 💞️ I’m looking to collaborate with WEB & UI/UX Designers.
-- 📫 How to reach me : www.sk-itpro.com/sagar-keshwala
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to Drive Bike.
+👋 Hi, I’m @sagarkeshwala
+🌐 I specialize in Web & UI/UX Design.
+🚀 Currently learning new technologies and improving my skillset.
+🤝 Looking to collaborate with fellow web developers and designers.
+📬 Reach me at: www.sk-itpro.com/sagar-keshwala
+😄 Pronouns: He/Him
+⚡ Fun fact: I love to ride bikes!
 
 <!---
 sagarkeshwala/sagarkeshwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
